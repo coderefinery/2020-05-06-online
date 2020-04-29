@@ -7,8 +7,6 @@ Edit here location, address, or video connection details.
 
 ### Time
 
-(Adjust these times)
-
 - Wednesday 9:00 - 12:15 (CEST)
   ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery-workshop&iso=20200407T07&ah=3))
 

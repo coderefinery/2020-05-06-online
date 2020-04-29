@@ -1,6 +1,6 @@
 
 
-### Dates, 2020
+### May 6, 2020
 
 <a class="btn btn-success" href="https://indico.neic.no/event/138/" data-mode="1" target="_blank">Register here</a>
 
@@ -48,6 +48,6 @@ packages need to be installed as detailed on the Python installation page.
   [Centralized workflow](https://coderefinery.github.io/git-collaborative/02-centralized/)
 - Break
 - 11:00 - 12:00
-  [Working with remotes](https://coderefinery.github.io/git-collaborative/03-distributed/)
+  [Distributed version control and forking workflow](https://coderefinery.github.io/git-collaborative/03-distributed/)
 - 12:00 - 12:15
   [How to contribute changes to somebody else's project](https://coderefinery.github.io/git-collaborative/03-distributed/04-contributing/)
