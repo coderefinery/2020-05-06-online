@@ -9,11 +9,8 @@ Edit here location, address, or video connection details.
 
 (Adjust these times)
 
-- Tuesday 9:00 - 12:00 (CEST)
+- Wednesday 9:00 - 12:15 (CEST)
   ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery-workshop&iso=20200407T07&ah=3))
-- Wednesday 9:00 - 12:00 (CEST)
-  ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery-workshop&iso=20200408T07&ah=3))
-
 
 ### Price
 
@@ -63,11 +60,17 @@ Python.
 
 ### Instructors
 
-- TBA
+- Anne Fouilloux
+- Bjørn Lindi
+- Stefan Negru
+- Thor Wikfeldt
 
 
 ### Helpers
 
 ([tips for helpers](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md))
 
-- TBA
+- Radovan Bast
+- Richard Darst
+- Juho Lehtonen
+- Sabry Razick

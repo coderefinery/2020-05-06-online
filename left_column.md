@@ -2,8 +2,7 @@
 
 ### Dates, 2020
 
-<a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
-
+<a class="btn btn-success" href="https://indico.neic.no/event/138/" data-mode="1" target="_blank">Register here</a>
 
 ### Contact
 
@@ -37,60 +36,18 @@ packages need to be installed as detailed on the Python installation page.
 - [Editor](https://coderefinery.github.io/installation/editors/)
 - [Git](https://coderefinery.github.io/installation/git/)
 - [(optional) Visual diff tools](https://coderefinery.github.io/installation/difftools/)
-- [Python](https://coderefinery.github.io/installation/python/)
-- [Jupyter and JupyterLab](https://coderefinery.github.io/installation/jupyter)
-- [Snakemake](https://coderefinery.github.io/installation/snakemake)
 
 
 ### Schedule
 
-Day 1
-- 9:00 - 9:30
+- 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (TBA)
-- 9:30 - 12:00
-  [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/)
-  (TBA)
-- 12:00 - 13:00
-  Lunch break
-- 13:00 - 15:00
-  [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/)
-  (TBA)
-- 15:30 - 17:00
-  [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
-  (TBA)
-
-Day 2
-- 9:00 - 10:30
-  [Modular code development](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md)
-  (TBA)
+- 9:20 - 9:40
+  [Working with remotes](https://coderefinery.github.io/git-collaborative/01-remotes/)
+- 9:40 - 10:40
+  [Centralized workflow](https://coderefinery.github.io/git-collaborative/02-centralized/)
+- Break
 - 11:00 - 12:00
-  [Collaborative distributed version control 1/2](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
-- 12:00 - 13:00
-  Lunch break
-- 13:00 - 14:30
-  [Collaborative distributed version control 2/2](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
-- 15:00-17:00
-  [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
-  (TBA)
-
-Day 3
-- 9:00 - 10:30
-  [Documentation](https://coderefinery.github.io/documentation/)
-  (TBA)
-- 11:00 - 12:00
-  [Automated testing part 1/2](https://coderefinery.github.io/testing/)
-  (TBA)
-- 12:00 - 13:00
-  Lunch break
-- 13:00 - 14:00
-  [Automated testing part 2/2](https://coderefinery.github.io/testing/)
-  (TBA)
-- 14:30 - 16:30
-  [Jupyter](https://coderefinery.github.io/jupyter/)
-  (TBA)
-- 16:30 - 17:00
-  [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
-  (TBA)
+  [Working with remotes](https://coderefinery.github.io/git-collaborative/03-distributed/)
+- 12:00 - 12:15
+  [How to contribute changes to somebody else's project](https://coderefinery.github.io/git-collaborative/03-distributed/04-contributing/)

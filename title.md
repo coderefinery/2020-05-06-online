@@ -1,5 +1,5 @@
-# Title
+# Online CodeRefinery workshop
 
-### Subtitle
+### Collaborative distributed version control
 
 ---
