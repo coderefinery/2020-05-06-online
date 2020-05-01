@@ -41,13 +41,13 @@ packages need to be installed as detailed on the Python installation page.
 ### Schedule
 
 - 9:00 - 9:20
-  [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
+  [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md) (Thor)
 - 9:20 - 9:40
-  [Working with remotes](https://coderefinery.github.io/git-collaborative/01-remotes/)
+  [Working with remotes](https://coderefinery.github.io/git-collaborative/01-remotes/) (Stefan)
 - 9:40 - 10:40
-  [Centralized workflow](https://coderefinery.github.io/git-collaborative/02-centralized/)
+  [Centralized workflow](https://coderefinery.github.io/git-collaborative/02-centralized/) (Stefan and Anne)
 - Break
 - 11:00 - 12:00
-  [Distributed version control and forking workflow](https://coderefinery.github.io/git-collaborative/03-distributed/)
+  [Distributed version control and forking workflow](https://coderefinery.github.io/git-collaborative/03-distributed/) (Bjørn)
 - 12:00 - 12:15
-  [How to contribute changes to somebody else's project](https://coderefinery.github.io/git-collaborative/04-contributing/)
+  [How to contribute changes to somebody else's project](https://coderefinery.github.io/git-collaborative/04-contributing/) (Thor)
