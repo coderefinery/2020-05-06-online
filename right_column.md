@@ -2,7 +2,7 @@
 
 ### Location
 
-Edit here location, address, or video connection details.
+Online Zoom room.
 
 
 ### Time
