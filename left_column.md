@@ -11,7 +11,7 @@ support@coderefinery.org
 
 ### Format
 
-Hands-on informal and interactive online two-day event with type-along type of
+Hands-on informal and interactive online half-day event with type-along type of
 presentations, live coding and demos. Short tutorials alternate with practical
 exercises.
 
