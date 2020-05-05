@@ -49,5 +49,7 @@ packages need to be installed as detailed on the Python installation page.
 - Break
 - 11:00 - 12:00
   [Distributed version control and forking workflow](https://coderefinery.github.io/git-collaborative/03-distributed/) (Bjørn)
-- 12:00 - 12:15
+- 12:00 - 12:10
   [How to contribute changes to somebody else's project](https://coderefinery.github.io/git-collaborative/04-contributing/) (Thor)
+- 12:10 - 12:15
+  [Where to go from here](https://github.com/coderefinery/workshop-outro) (Thor)
